@@ -1,4 +1,5 @@
 ![image](https://github.com/Yieugene1/rpg_game/assets/152032366/66934761-3527-4e93-88f3-0e289b4fb2af)
+
 Achievements:
 Throughout the development of my RPG game, I've reached several significant milestones. Here are some key accomplishments:
 
@@ -30,12 +31,17 @@ Skill Usage: After unlocking skills, players can activate them using assigned ke
 Item Purchasing: Players can purchase health potions by pressing the designated key (N) and upgrade skills or increase attack power using the assigned key (M).
 
 Types of Monsters：
+
+
 ![image](https://github.com/Yieugene1/rpg_game/assets/152032366/c926b777-4714-43a1-aab3-c806385b9d76)
-![image](https://github.com/Yieugene1/rpg_game/assets/152032366/db06b3b6-daad-4bce-939a-0df195cbd5c9)
 ![image](https://github.com/Yieugene1/rpg_game/assets/152032366/1cbf7df0-f4a2-44fe-82c3-0dbe2fb01fc5)
 ![image](https://github.com/Yieugene1/rpg_game/assets/152032366/8825d21b-01cd-4814-ae05-43246f1f8c02)
 ![image](https://github.com/Yieugene1/rpg_game/assets/152032366/8a2bbcf6-cd2b-4b0d-ba78-edef2463c40a)
+
+
 Reference:
+
+
 Map:https://craftpix.net/freebies/free-forest-battle-backgrounds/
 Character:https://craftpix.net/freebies/free-fallen-angel-chibi-2d-game-sprites/
 Flame:https://craftpix.net/freebies/free-flame-effects-sprite-pack/?num=1&count=89&sq=fire&pos=11
