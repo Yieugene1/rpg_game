@@ -33,6 +33,7 @@ Item Purchasing: Players can purchase health potions by pressing the designated 
 Types of Monsters：
 
 
+![image](https://github.com/Yieugene1/rpg_game/assets/152032366/bebd31c9-fdba-4bf7-9897-0188e3c0b0a0)
 ![image](https://github.com/Yieugene1/rpg_game/assets/152032366/c926b777-4714-43a1-aab3-c806385b9d76)
 ![image](https://github.com/Yieugene1/rpg_game/assets/152032366/1cbf7df0-f4a2-44fe-82c3-0dbe2fb01fc5)
 ![image](https://github.com/Yieugene1/rpg_game/assets/152032366/8825d21b-01cd-4814-ae05-43246f1f8c02)
